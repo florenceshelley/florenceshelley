@@ -1,4 +1,5 @@
-<img width="1144" alt="Hi, I'm Flo" src="https://github.com/florenceshelley/florenceshelley/assets/23623312/f935e6ee-1b30-4222-b2e0-a99924370503" />
+<img width="1302" alt="Hi, I'm Flo" src="https://github.com/florenceshelley/florenceshelley/assets/23623312/7fbb4882-bfbe-4150-9ec7-abd7c4dbd5e5">
+
 <br />
 <br />
 
