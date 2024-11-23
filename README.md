@@ -6,5 +6,5 @@
 I'm a software engineer, currently working at [Wealthsimple](https://www.wealthsimple.com/).
 
 💜 Pronouns: she/her <br/>
-🌱 Currently exploring Temporal <br/>
-⚡ In my spare time, I like to doodle, code, read, organize, and hike
+🌱 Currently exploring UI design <br/>
+⚡ In my spare time, I like to doodle, code, read, organize, eat, run, lift and hike
