@@ -3,8 +3,7 @@
 <br />
 <br />
 
-I'm a software engineer, currently working at [Wealthsimple](https://www.wealthsimple.com/).
+Software engineer; ADPList mentor; TorontoJS volunteer; ex-[Wealthsimple](https://www.wealthsimple.com/).
 
 💜 Pronouns: she/her <br/>
-🌱 Currently exploring UI design and Next.js <br/>
 ⚡ In my spare time, I like to doodle, code, read, eat, run, bike, lift and hike
