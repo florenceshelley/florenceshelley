@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Software engineer; ADPList mentor; TorontoJS volunteer; ex-[Wealthsimple](https://www.wealthsimple.com/).
-
-💜 Pronouns: she/her <br/>
-⚡ In my spare time, I like to doodle, code, read, eat, run, bike, lift and hike
+👋🏻 Hello! I'm Florence (or Flo, for short). <br />
+💜 Pronouns: she/her. <br />
+🌱 I am a software engineer, ADPList mentor, TorontoJS volunteer, [ex-Wealthsimpler](https://www.wealthsimple.com/). <br />
+⚡ In my spare time, I like to doodle, code, read, eat, run, bike, lift and hike.
